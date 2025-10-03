@@ -31,8 +31,11 @@ Per perpunimin e te dhenave e kam perdorur **Jupyter Nootebook** dhe hapat kryes
 # Clonimi
 
 Clono Projektin
+
 cd task
+
 pip install pandas scikit-learn matplotlib seaborn notebook
+
 python app.py
 
 
