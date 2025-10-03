@@ -16,19 +16,17 @@ Per perpunimin e te dhenave e kam perdorur **Jupyter Nootebook** dhe hapat kryes
 
 📂 Lexon dataset-in e pastruar IMDB_Cleaned_Reviews.csv.
 
-✂️ Ndan të dhënat në train/test sets.
+✂️ Ndan te dhenat ne train/test sets.
 
-🔍 Shndërron tekstin në vektorë duke përdorur TF-IDF (unigram + bigram).
+🔍 Shnderron tekstin ne vektore duke perdorur TF-IDF (unigram + bigram).
 
 🤖 Trajnon dy modele: Logistic Regression dhe Naive Bayes.
 
-📊 Vlerëson performancën me accuracy, classification report dhe confusion matrix.
+📊 Vlereson performancen me accuracy, classification report dhe confusion matrix.
 
-✍️ Ka një script interaktiv ku përdoruesi shkruan një fjali dhe modeli jep parashikimin e sentimentit (positive/negative).
+✍️ Ka nje script interaktiv ku perdoruesi shkruan nje fjali dhe modeli jep parashikimin e sentimentit (positive/negative).
 
-⚖️ Krahason rezultatet e modeleve me grafik.
-
-✍️ Ka një script interaktiv ku përdoruesi shkruan një fjali dhe modeli jep parashikimin e sentimentit (positive/negative).
+⚖️ Krahaso rezultatat e modeleve me grafik.
 
 # Clone
 
