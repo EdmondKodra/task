@@ -6,7 +6,7 @@ Ky projekt perdor Dataset-in IMBD 50K Movie Reviews nga **Kaggle** per te ndertu
 # Data Preperation
 Per perpunimin e te dhenave e kam perdorur **Jupyter Nootebook** dhe hapat kryesor qe kam ndjekur jan:
 
-📂 Ngarkimi i dataset-it me pandas ku u hoqen duplikatat dhe u pastruan review-t nga HTML tags, simbolet e panevojshme dhe hapesirat e teperta; gjithashtu teksti u shnderrua ne lowercase.
+📂 Ngarkimi i dataset-it me pandas ku u hoqen duplikatat dhe u pastruan review-t nga HTML tags, simbolet e panevojshme dhe hapesirat e teperta gjithashtu teksti u shnderrua ne lowercase.
 
 🧹 Pastrimi i metejshem i tekstit ku u hoqen stopwords dhe u analizua shperndarja e sentimentit (positive/negative) si dhe fjalet me te shpeshta ne review.
 
