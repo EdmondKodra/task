@@ -28,7 +28,7 @@ Per perpunimin e te dhenave e kam perdorur **Jupyter Nootebook** dhe hapat kryes
 
 ⚖️ Krahason rezultatet e modeleve me grafik.
 
-# Clonimi
+# Clone
 
 Clono Projektin
 
