@@ -12,22 +12,28 @@ Per perpunimin e te dhenave e kam perdorur **Jupyter Nootebook** dhe hapat kryes
 
 💾 Ruajtja e rezultateve → dataset-i i pastruar u eksportua ne nje file te ri: IMDB_Cleaned_Reviews.csv.
 
-## Model Training
+## Funksionalitetet e Kodit
 
-📊 Dataset-i u nda ne train/test split per te siguruar validim te drejte.
+📂 Leximi i dataset-it të pastruar (IMDB_Cleaned_Reviews.csv) me pandas.
 
-🤖 U trajnuan dy modele te thjeshta klasifikimi: Logistic Regression dhe Naive Bayes.
+✂️ Ndarja e të dhënave në train/test sets me train_test_split.
 
-📈 Modelet u vleresuan duke perdorur accuracy, precision, recall dhe F1-score, dhe performanca u krahasua me grafik bar chart dhe confusion matrix.
+🔍 Vektorizimi i tekstit duke përdorur TF-IDF (unigram + bigram).
 
-## Prediction Script
+🤖 Trajnimi i modeleve:
 
-✍️ U krijua nje funksion i thjeshte ku perdoruesi mund te shkruaje nje fjali dhe modeli parashikon sentimentin (positive/negative).
+Logistic Regression
 
-## Bonus
+Naive Bayes
 
-🔍 U perdor TF-IDF me unigram + bigram ne vend te bag-of-words.
+📊 Vlerësimi i performancës me:
 
-⚖️ U krahasuan dy modele dhe u vizualizuan rezultatet per te pare cili performon me mire.
+Accuracy
 
-📊 U krijuan confusion matrices per te shfaqur performancen e modeleve.
+Precision, Recall, F1-score (classification report)
+
+Confusion Matrix (vizualizuar me seaborn heatmap)
+
+⚖️ Krahasimi i performancës së modeleve me grafik bar chart.
+
+✍️ Prediction Script: Funksion ku përdoruesi mund të japë një fjali, dhe modeli parashikon sentimentin positive/negative në kohë reale.
