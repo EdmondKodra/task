@@ -26,7 +26,7 @@ Per perpunimin e 50K+ te dhenave e kam perdorur **Jupyter Notebook** dhe hapat k
 
 ✍️ Ka nje script interaktiv ku perdoruesi shkruan nje fjali dhe modeli jep parashikimin e sentimentit (positive/negative).
 
-⚖️ Krahaso rezultatat e modeleve me grafik.
+⚖️ Krahaso rezultatet e modeleve me grafik.
 
 🎬 [Kjo video tregon projektin](https://youtu.be/UqWWqwmDr9o) #Skip 1:07
 
