@@ -28,6 +28,8 @@ Per perpunimin e te dhenave e kam perdorur **Jupyter Nootebook** dhe hapat kryes
 
 ⚖️ Krahason rezultatet e modeleve me grafik.
 
+✍️ Ka një script interaktiv ku përdoruesi shkruan një fjali dhe modeli jep parashikimin e sentimentit (positive/negative).
+
 # Clone
 
 Clono Projektin
@@ -39,4 +41,4 @@ pip install pandas scikit-learn matplotlib seaborn notebook
 python app.py
 
 
-✍️ Ka një script interaktiv ku përdoruesi shkruan një fjali dhe modeli jep parashikimin e sentimentit (positive/negative).
+
