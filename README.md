@@ -28,7 +28,7 @@ Per perpunimin e te dhenave e kam perdorur **Jupyter Nootebook** dhe hapat kryes
 
 ⚖️ Krahaso rezultatat e modeleve me grafik.
 
-[Kjo video tregon projektin](https://youtu.be/UqWWqwmDr9o)
+🎬 [Kjo video tregon projektin](https://youtu.be/UqWWqwmDr9o)
 
 ## Clone
 
