@@ -4,13 +4,13 @@ Ky projekt perdor Dataset-in IMBD 50K Movie Reviews nga **Kaggle** per te ndertu
 ↗ [IMDB 50K Movie Reviews Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
 ## Data Preperation
-Per perpunimin e te dhenave e kam perdorur **Jupyter Nootebook** dhe hapat kryesor qe kam ndjekur jan:
+Per perpunimin e 50K+ te dhenave e kam perdorur **Jupyter Notebook** dhe hapat kryesor qe kam ndjekur jan:
 
-📂 Ngarkimi i dataset-it me pandas ku u hoqen duplikatat dhe u pastruan review-t nga HTML tags, simbolet e panevojshme dhe hapesirat e teperta gjithashtu teksti u shnderrua ne lowercase.
+📂 Ngarkimi i dataset-it me pandas ku i hoqa duplicates dhe i pastrova review-t nga HTML tags, simbolet e panevojshme dhe hapesirat e teperta gjithashtu tekstin e shnderrova ne lowercase.
 
-🧹 Pastrimi i metejshem i tekstit ku u hoqen stopwords dhe u analizua shperndarja e sentimentit (positive/negative) si dhe fjalet me te shpeshta ne review.
+🧹 Pastrimi i metejshem i tekstit ku i hoqa stopwords dhe u analizua shperndarja e sentimentit (positive/negative) si dhe fjalet me te shpeshta ne review.
 
-💾 Ruajtja e rezultateve → dataset-i i pastruar u eksportua ne nje file te ri: IMDB_Cleaned_Reviews.csv.
+💾 Ruajtja e rezultateve dataseti i pastruar u eksportua ne nje file te ri: IMDB_Cleaned_Reviews.csv.
 
 ## Funksionalitetet e Kodit
 
@@ -28,7 +28,7 @@ Per perpunimin e te dhenave e kam perdorur **Jupyter Nootebook** dhe hapat kryes
 
 ⚖️ Krahaso rezultatat e modeleve me grafik.
 
-🎬 [Kjo video tregon projektin](https://youtu.be/UqWWqwmDr9o)
+🎬 [Kjo video tregon projektin](https://youtu.be/UqWWqwmDr9o) #Skip 1:07
 
 ## Clone
 
