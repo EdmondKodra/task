@@ -36,7 +36,7 @@ Clono Projektin
 
 cd task
 
-pip install pandas scikit-learn matplotlib seaborn notebook
+pip install pandas scikit-learn matplotlib seaborn 
 
 python app.py
 
