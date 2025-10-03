@@ -24,7 +24,7 @@ Per perpunimin e 50K+ te dhenave e kam perdorur **Jupyter Notebook** dhe hapat k
 
 📊 Vlereson performancen me accuracy, classification report dhe confusion matrix.
 
-✍️ Ka nje script interaktiv ku perdoruesi shkruan nje fjali dhe modeli jep parashikimin e sentimentit (positive/negative).
+✍️ Ka nje script ku perdoruesi shkruan nje fjali dhe modeli jep parashikimin e sentimentit (positive/negative).
 
 ⚖️ Krahaso rezultatet e modeleve me grafik.
 
@@ -32,7 +32,7 @@ Per perpunimin e 50K+ te dhenave e kam perdorur **Jupyter Notebook** dhe hapat k
 
 ## Clone
 
-Clono Projektin
+📥Clono Projektin
 
 cd task
 
